@@ -1,0 +1,8 @@
+Task 1: Run unit tests using Jasmine
+
+Command:
+npm test
+
+Output:
+7 specs, 0 failures
+Finished in 0.015 seconds
